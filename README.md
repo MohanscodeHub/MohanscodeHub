@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WebDriverIO,Appium.**
 
-- 💬 Ask me about **Testing,Test Automation ,Testing tools and Softskills.**
+- 💬 Ask me about **Testing,Test Automation ,Testing tools,Softskills and Effective Communication.**
 
 - 📫 How to reach me **mjj.krishnan3@gmail.com**
 
