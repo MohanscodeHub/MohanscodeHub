@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohana Krishnan</h1>
-<h3 align="center">A passionate Test Automation Engineer from India. I am inclined towards learning new technologies and implementing them to solve testing related problems.</h3>
+<h3 align="center">A passionate Test Automation Engineer inclined towards learning new technologies and implementing them to solve testing related problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanscodehub&label=Profile%20views&color=0e75b6&style=flat" alt="mohanscodehub" /> </p>
 
